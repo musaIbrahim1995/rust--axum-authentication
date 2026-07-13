@@ -1,1 +1,1 @@
- This is a rust authntication pr
+ This is a rust authnt
